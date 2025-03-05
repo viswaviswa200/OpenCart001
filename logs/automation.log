@@ -1,0 +1,60 @@
+2025-03-05 12:47:23 INFO  TC001_AccountRegistrationTest:22 - *************starting TC001_AccountRegistrationTest***********
+2025-03-05 12:47:23 INFO  TC001_AccountRegistrationTest:26 - Clicked on My account Link
+2025-03-05 12:47:23 INFO  TC001_AccountRegistrationTest:30 - Clicked on Register Link
+2025-03-05 12:47:23 INFO  TC001_AccountRegistrationTest:32 - Providing Customer Details
+2025-03-05 12:47:25 INFO  TC001_AccountRegistrationTest:46 - Validating Execpected Message
+2025-03-05 12:47:25 INFO  TC001_AccountRegistrationTest:55 - *************Finished TC001_AccountRegistrationTest***********
+2025-03-05 12:47:29 INFO  TC002_LoginTest:15 - *************starting TC002_LoginTest***********
+2025-03-05 12:47:29 INFO  TC002_LoginTest:19 - Clicked on My account Link
+2025-03-05 12:47:29 INFO  TC002_LoginTest:21 - Clicked on Login Page
+2025-03-05 12:47:29 INFO  TC002_LoginTest:23 - Providing Valid Login Crenditals
+2025-03-05 12:47:30 INFO  TC002_LoginTest:31 - Validating My Account Page
+2025-03-05 12:47:30 INFO  TC002_LoginTest:39 - *************Finished TC002_LoginTest***********
+2025-03-05 12:53:05 INFO  TC001_AccountRegistrationTest:22 - *************starting TC001_AccountRegistrationTest***********
+2025-03-05 12:53:06 INFO  TC001_AccountRegistrationTest:26 - Clicked on My account Link
+2025-03-05 12:53:06 INFO  TC001_AccountRegistrationTest:30 - Clicked on Register Link
+2025-03-05 12:53:06 INFO  TC001_AccountRegistrationTest:32 - Providing Customer Details
+2025-03-05 12:53:08 INFO  TC001_AccountRegistrationTest:46 - Validating Execpected Message
+2025-03-05 12:53:08 INFO  TC001_AccountRegistrationTest:55 - *************Finished TC001_AccountRegistrationTest***********
+2025-03-05 12:53:13 INFO  TC002_LoginTest:15 - *************starting TC002_LoginTest***********
+2025-03-05 12:53:13 INFO  TC002_LoginTest:19 - Clicked on My account Link
+2025-03-05 12:53:14 INFO  TC002_LoginTest:21 - Clicked on Login Page
+2025-03-05 12:53:14 INFO  TC002_LoginTest:23 - Providing Valid Login Crenditals
+2025-03-05 12:53:15 INFO  TC002_LoginTest:31 - Validating My Account Page
+2025-03-05 12:53:15 INFO  TC002_LoginTest:39 - *************Finished TC002_LoginTest***********
+2025-03-05 12:53:43 INFO  TC001_AccountRegistrationTest:22 - *************starting TC001_AccountRegistrationTest***********
+2025-03-05 12:53:43 INFO  TC001_AccountRegistrationTest:26 - Clicked on My account Link
+2025-03-05 12:53:44 INFO  TC001_AccountRegistrationTest:30 - Clicked on Register Link
+2025-03-05 12:53:44 INFO  TC001_AccountRegistrationTest:32 - Providing Customer Details
+2025-03-05 12:53:45 INFO  TC001_AccountRegistrationTest:46 - Validating Execpected Message
+2025-03-05 12:53:45 INFO  TC001_AccountRegistrationTest:55 - *************Finished TC001_AccountRegistrationTest***********
+2025-03-05 12:53:49 INFO  TC002_LoginTest:15 - *************starting TC002_LoginTest***********
+2025-03-05 12:53:49 INFO  TC002_LoginTest:19 - Clicked on My account Link
+2025-03-05 12:53:50 INFO  TC002_LoginTest:21 - Clicked on Login Page
+2025-03-05 12:53:50 INFO  TC002_LoginTest:23 - Providing Valid Login Crenditals
+2025-03-05 12:53:51 INFO  TC002_LoginTest:31 - Validating My Account Page
+2025-03-05 12:53:51 INFO  TC002_LoginTest:39 - *************Finished TC002_LoginTest***********
+2025-03-05 15:29:13 INFO  TC001_AccountRegistrationTest:22 - *************starting TC001_AccountRegistrationTest***********
+2025-03-05 15:29:13 INFO  TC001_AccountRegistrationTest:26 - Clicked on My account Link
+2025-03-05 15:29:14 INFO  TC001_AccountRegistrationTest:30 - Clicked on Register Link
+2025-03-05 15:29:14 INFO  TC001_AccountRegistrationTest:32 - Providing Customer Details
+2025-03-05 15:29:16 INFO  TC001_AccountRegistrationTest:46 - Validating Execpected Message
+2025-03-05 15:29:16 INFO  TC001_AccountRegistrationTest:55 - *************Finished TC001_AccountRegistrationTest***********
+2025-03-05 15:29:18 INFO  TC002_LoginTest:15 - *************starting TC002_LoginTest***********
+2025-03-05 15:29:19 INFO  TC002_LoginTest:19 - Clicked on My account Link
+2025-03-05 15:29:19 INFO  TC002_LoginTest:21 - Clicked on Login Page
+2025-03-05 15:29:19 INFO  TC002_LoginTest:23 - Providing Valid Login Crenditals
+2025-03-05 15:29:20 INFO  TC002_LoginTest:31 - Validating My Account Page
+2025-03-05 15:29:20 INFO  TC002_LoginTest:39 - *************Finished TC002_LoginTest***********
+2025-03-05 15:29:45 INFO  TC001_AccountRegistrationTest:22 - *************starting TC001_AccountRegistrationTest***********
+2025-03-05 15:29:45 INFO  TC001_AccountRegistrationTest:26 - Clicked on My account Link
+2025-03-05 15:29:46 INFO  TC001_AccountRegistrationTest:30 - Clicked on Register Link
+2025-03-05 15:29:46 INFO  TC001_AccountRegistrationTest:32 - Providing Customer Details
+2025-03-05 15:29:48 INFO  TC001_AccountRegistrationTest:46 - Validating Execpected Message
+2025-03-05 15:29:48 INFO  TC001_AccountRegistrationTest:55 - *************Finished TC001_AccountRegistrationTest***********
+2025-03-05 15:29:50 INFO  TC002_LoginTest:15 - *************starting TC002_LoginTest***********
+2025-03-05 15:29:51 INFO  TC002_LoginTest:19 - Clicked on My account Link
+2025-03-05 15:29:51 INFO  TC002_LoginTest:21 - Clicked on Login Page
+2025-03-05 15:29:51 INFO  TC002_LoginTest:23 - Providing Valid Login Crenditals
+2025-03-05 15:29:52 INFO  TC002_LoginTest:31 - Validating My Account Page
+2025-03-05 15:29:52 INFO  TC002_LoginTest:39 - *************Finished TC002_LoginTest***********
